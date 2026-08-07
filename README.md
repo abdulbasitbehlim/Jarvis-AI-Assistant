@@ -38,7 +38,7 @@ Jarvis-AI-Assistant/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
+   git clone https://github.com/abdulbasitbehlim/YourRepoName.git
    cd YourRepoName
    ```
 
