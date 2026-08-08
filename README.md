@@ -38,8 +38,8 @@ Jarvis-AI-Assistant/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdulbasitbehlim/YourRepoName.git
-   cd YourRepoName
+   git clone https://github.com/abdulbasitbehlim/Jarvis-AI-Assistant.git
+   cd Jarvis-AI-Assistant
    ```
 
 2. Install the required packages:
